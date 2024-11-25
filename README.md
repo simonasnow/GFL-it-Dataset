@@ -5,7 +5,7 @@ We store in this repository the GFL-it (Gender-Fair Language) dataset, an Italia
 This version of the dataset has been presented in the Overview of GFG (Gender-Fair Generation) task at CALAMITA 2024.
 
 
-# Publications
+## Publications
 If you use this dataset, please cite the following paper:
 
 > @inproceedings{rosola2023beyond,
