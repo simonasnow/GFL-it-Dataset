@@ -1,4 +1,11 @@
-# Publication
+# GFL-it
+
+We store in this repository the GFL-it (Gender-Fair Language) dataset, an Italian dataset built on documents and texts from University website pages provided by the University of Brescia. It constitutes an expansion of the corpus presented in [Beyond Obscuration and Visibility: Thoughts on the Different Strategies of Gender-Fair Language in Italian](https://publicatt.unicatt.it/bitstream/10807/261457/1/paper42.pdf).
+
+This version of the dataset has been presented in the Overview of GFG (Gender-Fair Generation) task at CALAMITA 2024.
+
+
+# Publications
 If you use this dataset, please cite the following paper:
 
 > @inproceedings{rosola2023beyond,
